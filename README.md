@@ -4,7 +4,7 @@
 I'm an amateur programmer from Brazil who loves fiddling with databases and other backend stuff.
 
 
-Skills: JS / TS / NodeJS / Databases / Data Visualisation / Devops / Google Cloud Platform / Linux (Ubuntu please)
+Skills: JS / TS / NodeJS / No-SQL Databases / Data Visualisation / Devops / Google Cloud Platform / Linux (Ubuntu please)
 
 
 - 🤝 I’m currently looking for Java developers who are familiar with Minecraft: Java Edition development environments. Apply [here](mailto:jobs@palaze.gg).
